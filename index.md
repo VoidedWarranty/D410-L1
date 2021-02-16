@@ -1,6 +1,5 @@
-## Welcome to GitHub Pages
+# Boston Housing Analysis 
 
-Blah blah blah TEST TEST TEST
 
 You can use the [editor on GitHub](https://github.com/VoidedWarranty/D410-L1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -23,7 +22,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+*Bold* and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
