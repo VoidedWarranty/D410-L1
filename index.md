@@ -1,3 +1,6 @@
 # Boston Housing Analysis 
 
-For this first lab, we are just doing some basic analyses of a classic dataset to start to come to grips with the tools and techniques of data science. The dataset in question is the Boston Housing dataset, which I've found in the course of doing this lab is actually included [directly in scikit.](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_boston.html) This dataset includes a solid 506 entries and 17 dimensions, although for the purposes of this lab we will only be working with two, the number of rooms as the feature variable and the price as the target.
+For this first lab, we are just doing some real quick and easy analyses of a classic dataset to start to come to grips with the tools and techniques of data science. The dataset in question is Boston Housing (which I've found in the course of doing this lab is actually included [directly in scikit!](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_boston.html)), a dataset includes a solid 506 entries and 17 dimensions.
+
+## The Dataset
+The purpose of the boston housing dataset is to predict the price of a given house with the plethora of other information provided, including location, local crime rates, age, tax rate, etc. However, for this analysis we are going to try to predict the price using only one feature variable: the number of rooms. As you can see in this image, there is an easily apparent correlation between these variables that appears to increase fairly linearly.
